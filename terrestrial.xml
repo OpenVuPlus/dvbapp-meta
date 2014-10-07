@@ -325,4 +325,38 @@
 		<transponder centre_frequency="850000000" bandwidth="0" constellation="3"/>
 		<transponder centre_frequency="858000000" bandwidth="0" constellation="3"/>
 	</terrestrial>
+	<terrestrial name="Russia (Europe DVB-T/T2)" flags="5">
+                  <transponder centre_frequency="498000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="762000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="1"/>
+        </terrestrial>
+        <terrestrial name="Crimea (Europe DVB-T/T2)" flags="5">
+                  <transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="770000000" bandwidth="0" constellation="3" system="1"/>
+        </terrestrial>
+        <terrestrial name="Ukraine (Europe DVB-T/T2)" flags="5">
+                  <transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="714000000" bandwidth="0" constellation="3" system="1"/>
+                  <transponder centre_frequency="818000000" bandwidth="0" constellation="3" system="1"/>
+        </terrestrial>
 </locations>
